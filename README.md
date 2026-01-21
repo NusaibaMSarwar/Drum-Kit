@@ -33,5 +33,4 @@ An interactive drum kit that lets you play drum sounds using your keyboard or mo
 - JavaScript
 
 ---
-
-Made with ❤️
+Live Demo: https://nusaibamsarwar.github.io/Drum-Kit/
